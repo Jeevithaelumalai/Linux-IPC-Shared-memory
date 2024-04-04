@@ -53,7 +53,8 @@ int main()
 
 
 ## OUTPUT
-![Uploading image.png…]()
+
+![image](https://github.com/Jeevithaelumalai/Linux-IPC-Shared-memory/assets/118708245/095cec9a-3df0-4067-8a91-a3240b6bdbe3)
 
 
 # RESULT:
